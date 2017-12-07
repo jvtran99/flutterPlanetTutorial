@@ -1,0 +1,28 @@
+[
+    {
+        "outputFile": "C:\\Users\\Jtran\\Documents\\GitHub\\solarsystemproject\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 12,
+                    "endOffset": 347
+                },
+                "from": {
+                    "file": "C:\\Users\\Jtran\\Documents\\GitHub\\solarsystemproject\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endLine": 6,
+                        "endColumn": 12,
+                        "endOffset": 353
+                    }
+                }
+            }
+        ]
+    }
+]
